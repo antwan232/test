@@ -35,31 +35,30 @@ Our team collaborated effectively to bring this e-commerce platform to life, wit
     * `<Login />` Component
     * `<Signup />` Component
     * `<Forget Password />` Component
-* **Checkout & Payments:**
-    * Checkout login integration.
-    * Stripe payment integration.
+* **Checkout & Payments:** Stripe payment integration
 
 ### Eng. Antwan Nabil
 
 * **Filtering & Product Display:**
     * Filter by Category.
-    * Shop, Fashion, Electronics pages: dynamic segment slug handling (`:type`) to render different products based on categories, including scenarios for empty and wrong categories.
+    * **Shop, Fashion, Electronics pages** : dynamic segment slug handling (`[:type]`) to render different products based on categories, including scenarios for empty and wrong categories.
 * **Core Features:**
-    * Add, Remove, Delete, Increase, Decrease item functionalities within the Redux Toolkit cart slice (collaboration with Eng. Nasser Hussein).
+    * Add, Remove, Delete, Increase, Decrease item functionalities within the Redux Toolkit cart slice (collaboration with *Eng. Nasser Hussein*).
     * React Query implementation and management for the whole application.
+    * `<Sidebae />`: Renders all category data with appropriate styling lists with their images, and interactive UI indicating the current category for an enhanced user experience.
 * **User Interface (UI):**
-    * `<Sidebar />` Component: Renders all category data with appropriate styling, lists with images, and interactive UI indicating the current category for an enhanced user experience.
-    * Reusable `<Button />` Component
-    * Reusable `<Grid />` Component
-    * Reusable `<Card />` Component
-    * `<Checkout />` Component
+    * `<Sidebar />` Component
+    * `<Button />` Reusable Component
+    * `<Grid />` Reusable Component
+    * `<Card />` Reusable Component
+    * `<Checkout />` Reusable Component
 
 ### Eng. Mohamed Habib
 
 * **Core Features:**
     * Wishlist Redux Toolkit slice.
     * All Orders query.
-* **User Interface (UI):
+* **User Interface (UI)**:
     * `<ProductDetails />` Component
     * `<About Us />` Component
     * `<Blog />` Component
@@ -67,18 +66,6 @@ Our team collaborated effectively to bring this e-commerce platform to life, wit
     * `<Wishlist />` Page Component
     * `<Orders />` Component
     * `<Footer />` Component
-
-### Eng. Fathy
-
----
-### ⚠️ Important Note Regarding Eng. Fathy's Involvement
-
-* **Contribution:** Eng. Fathy's time was primarily spent on revision of CSS, JavaScript, Tailwind CSS, Git, and GitHub.
-* **Excuses:** His **lying and fake excuses** for lack of progress consistently revolved around slow internet or an inability to afford internet charges.
-* **Impact on Team:** As a limited team of only three truly working developers, Eng. Fathy proved to be unhelpful. He frequently wasted our limited time with basic inquiries such as "how can I install Git?", "why is this error shown in my CMD?", and "how can I design a product page?".
-* **Lack of Initiative:** He repeatedly asked, "what should I do, what should I do?"
-* **Conclusion:** His overall impact was detrimental due to the **significant time wasted**. We request his **immediate removal from the team**, and his second-phase points have been **deducted entirely** as he provided no useful contribution.
----
 
 ## Features Overview
 
